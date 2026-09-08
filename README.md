@@ -91,31 +91,31 @@ The primary oil-spill dataset will be obtained from the **Nigerian Oil Spill Mon
 
 NOSDRA states that the Oil Spill Monitor provides public access to oil-spill information collected through Joint Investigation Visits (JIVs), although the agency also notes that records can be incomplete and may change as new information becomes available.
 
-[Nigerian Oil Spill Monitor](https://www.nosdra.oilspillmonitor.ng/?utm_source=chatgpt.com)
+[Nigerian Oil Spill Monitor](https://www.nosdra.oilspillmonitor.ng)
 
 ### Administrative boundaries – HDX / OCHA
 
 State and LGA boundaries can be obtained from the Humanitarian Data Exchange and other authoritative Nigerian administrative boundary datasets.
 
-[Humanitarian Data Exchange](https://data.humdata.org?utm_source=chatgpt.com)
+[Humanitarian Data Exchange](https://data.humdata.org)
 
 ### Settlements and roads – OpenStreetMap
 
 OpenStreetMap can provide settlement locations, roads and other geographic features.
 
-[OpenStreetMap](https://www.openstreetmap.org?utm_source=chatgpt.com)
+[OpenStreetMap](https://www.openstreetmap.org)
 
 ### Road network – Geofabrik
 
 Regional OpenStreetMap extracts can be obtained from Geofabrik.
 
-[Geofabrik Downloads](https://download.geofabrik.de?utm_source=chatgpt.com)
+[Geofabrik Downloads](https://download.geofabrik.de)
 
 ### Population data – WorldPop
 
 Population distribution data can be used to estimate the number of people living within or close to identified oil-spill hotspot areas.
 
-[WorldPop](https://www.worldpop.org?utm_source=chatgpt.com)
+[WorldPop](https://www.worldpop.org)
 
 ### Land-cover data – ESA WorldCover
 
