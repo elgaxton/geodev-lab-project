@@ -89,7 +89,7 @@ This will provide additional environmental context for interpreting oil spill ho
 
 | Dataset | Purpose | Source |
 |---|---|---|
-|This primary oil-spill dataset was obtained from the **Nigerian Oil Spill Monitor**, managed by the National Oil Spill Detection and Response Agency (NOSDRA).| For this project, the dataset is specifically used to investigate the spatial distribution and concentration of oil spill incidents across Nigeria's South South region.| NOSDRA Oil Spill Dataset  Context https://oilspillmonitor.ng
+|This primary oil-spill dataset was obtained from the **Nigerian Oil Spill Monitor**, managed by the National Oil Spill Detection and Response Agency (NOSDRA).| For this project, the dataset is specifically used to investigate the spatial distribution and concentration of oil spill incidents across Nigeria's South South region.| NOSDRA Oil Spill Dataset https://oilspillmonitor.ng
 
 
 
