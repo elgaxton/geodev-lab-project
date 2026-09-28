@@ -1,100 +1,68 @@
-# My Geodev – Lab Project
+# Oil spill Monitor Project
 
-## Project Question
+Geospatial analysis and interactive mapping of oil spill hotspots and potential environmental risk areas across 
 
-**Which areas in Nigeria's South South region have the highest concentration of oil spill incidents, and where are the potential environmental risk hotspots?**
+**GeoDev Lab Africa, Cohort One.** Gaxton Okobah
 
-## Why it matters
 
-Nigeria's South South region contains the core of the country's Niger Delta oil-producing environment, with extensive oil and gas infrastructure, communities, rivers, wetlands, mangrove ecosystems and agricultural areas.
+## Datasets 
 
-Oil spill incidents can have significant environmental and socioeconomic consequences, particularly when spills occur repeatedly or close to communities, waterways, agricultural land and other environmentally sensitive areas.
+- oilspill data
+- State Boundaries
 
-Although oil spill incidents are recorded across the region, simply mapping individual spill locations does not clearly show where incidents are concentrated or which areas may require greater attention.
+## Timeline in view
+2015 to 2025
 
-Spatial analysis can be used to identify **oil spill hotspots**, examine their distribution across states and Local Government Areas (LGAs), and determine whether areas with frequent incidents overlap with settlements and environmentally sensitive features.
+## The Question
 
-Identifying these potential hotspots can support environmental monitoring, spill-response planning, prioritisation of field investigations, and data-driven decision-making.
+Which areas in Nigeria's South South region have the highest concentration of oil spill incidents, and where are the potential environmental risk hotspots?
 
-The project will therefore develop a spatial analysis workflow for identifying areas of concentrated oil spill activity across the South South region of Nigeria.
+## Why it Matters
 
-## The data I need
+Although oil spill incidents are recorded across the region, simply mapping individual spill locations does not clearly show where incidents are concentrated or which areas may require greater attention. With spatial analysis we can:
 
-### Oil spill incidents
+- Identify oil spill hotspot
+- Examine their distribution across the states and LGAs
+- determine whether areas with frequent incidents overlap with settlements and environmentally sensitive features.
+
+
+## Features of Focus on the Datasets
 
 Point locations of recorded oil spill incidents, including:
 
-* Incident date
-* Latitude and longitude
-* State
-* LGA
-* Oil spill cause
-* Estimated quantity spilled
-* Estimated spill area
-* Company/operator
-* Type of facility
-* Contaminant
-* Spill-area habitat
-* Other available incident attributes
+- Incident date
+- Latitude and longitude
+- State
+- LGA
+- Oil spill cause
+- Estimated quantity spilled
+- Estimated spill area
+- Company/operator
+- Type of facility
+- Contaminant
+- Spill-area habitat
 
-### South South State boundaries
+## Required South South State boundaries
 
 Polygon boundaries for:
+- Akwa Ibom
+- Bayelsa
+- Cross River
+- Delta
+- Edo
+- Rivers
 
-* Akwa Ibom
-* Bayelsa
-* Cross River
-* Delta
-* Edo
-* Rivers
+## Week 2
 
-### LGA boundaries
-
-Administrative boundaries for analysing oil spill incidents and hotspot patterns at Local Government Area level.
-
-### Settlements and populated places
-
-Locations of villages, towns and communities within the South South region.
-
-These will be used to examine whether high oil-spill concentration areas occur close to populated communities.
-
-### Rivers and water bodies
-
-Locations of rivers, creeks, lakes, wetlands and other major water features.
-
-These will help identify potential overlap between oil spill hotspots and environmentally sensitive water resources.
-
-### Road network
-
-A road network covering the study area.
-
-This can be used to examine accessibility to identified hotspot areas and potentially support future spill-response planning.
-
-### Land-use / land-cover data
-
-Land-use and land-cover information showing features such as:
-
-* Built-up areas
-* Agricultural land
-* Forest
-* Wetlands
-* Mangrove areas
-* Water bodies
-
-This will provide additional environmental context for interpreting oil spill hotspots.
-
-
-### Week 2
 ### Upload of Dataset to solve the above problem statement
 
-| Dataset | Purpose | Source |
-|---|---|---|
-|This primary oil-spill dataset was obtained from the **Nigerian Oil Spill Monitor**, managed by the National Oil Spill Detection and Response Agency (NOSDRA).| For this project, the dataset is specifically used to investigate the spatial distribution and concentration of oil spill incidents across Nigeria's South South region.| NOSDRA Oil Spill Dataset https://oilspillmonitor.ng
+Click here to `git commit` download the data [oilspill dataset](https://github.com/elgaxton/geodev-lab-project/blob/main/oil_spill_master.csv)
 
+### Features of the Dataset
 
-
-
-
-
+|DATASET |FEATURE TYPE |FEATURE COUNT |FILE FORMAT| SOURCE
+|---|---|---|---|---|
+|Oilspill Data |Points |9,929 | CSV |[OilspillMonitor](oilspillmitor.ng)
+|State Boundaries |Polygons| 37 | SHAPE FILE|[GRID 3](grid3.org)
 
 
