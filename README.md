@@ -65,4 +65,22 @@ Click here to `git commit` download the data [oilspill dataset](https://github.c
 |Oilspill Data |Points |9,929 | CSV |[OilspillMonitor](oilspillmitor.ng)
 |State Boundaries |Polygons| 37 | SHAPE FILE|[GRID 3](grid3.org)
 
+## Week 3
+
+CRS Choosen: EPSG 4326 - Reason for my choice simply because the oilspill dataset point features all came out as compared to when I used N32 layer
+
+### Quality Checks
+- I checked for the layer Coordinate Reference System and found it is EPSG:4326 - WGS 84
+
+- Audit measurement units was Verified for CRS degrees, like WGS 84 and linear units (meters, UTM) 
+
+What was Clipped is the point data features of the spill coordinates. It was clipped to the the State boundaries shapefiles of the Area of Study (Sout South Region).
+
+
+![Clipped Image of Area of Study](<Week 3/Clipped area of study.PNG>)
+
+![Just the Map](<Week 3/Area of Study Clipped.PNG>)
+
+[Geopackage of Study Area](<Week 3/oilspill_layer_cliped.gpkg>)
+- 
 
