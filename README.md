@@ -67,7 +67,7 @@ Click here to `git commit` download the data [oilspill dataset](https://github.c
 
 ## Week 3
 
-CRS Choosen: EPSG 4326 - Reason for my choice simply because the oilspill dataset point features all came out as compared to when I used N32 layer
+CRS Choosen: EPSG 4326 - Reason for my choice is simply because the oil spill dataset point features all came out as compared to when I used N32 CRS
 
 ### Quality Checks
 - I checked for the layer Coordinate Reference System and found it is EPSG:4326 - WGS 84
