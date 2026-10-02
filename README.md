@@ -81,6 +81,6 @@ What was Clipped is the point data features of the spill coordinates. It was cli
 
 [Just the Map](https://github.com/elgaxton/geodev-lab-project/blob/main/Area%20of%20Study%20Clipped.PNG)
 
-[Geopackage of Study Area](<Week 3/oilspill_layer_cliped.gpkg>)
+[Geopackage of Study Area](https://github.com/elgaxton/geodev-lab-project/blob/main/oilspill_layer_cliped.gpkg)
 - 
 
