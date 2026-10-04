@@ -67,7 +67,7 @@ Click here to `git commit` download the data [oilspill dataset](https://github.c
 
 ## Week 3
 
-CRS Choosen: EPSG 4326 - Reason for my choice is simply because the oil spill dataset point features all came out as compared to when I used N32 CRS
+CRS Choosen: EPSG:32632 - WGS 84 / UTM zone 32N - Reason for my choice is simply because the oil spill dataset point features all came out well after Reprojection
 
 ### Quality Checks
 1. What is the coodinate reference system?
