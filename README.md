@@ -70,11 +70,15 @@ Click here to `git commit` download the data [oilspill dataset](https://github.c
 CRS Choosen: EPSG 4326 - Reason for my choice is simply because the oil spill dataset point features all came out as compared to when I used N32 CRS
 
 ### Quality Checks
-- I checked for the layer Coordinate Reference System and found it is EPSG:4326 - WGS 84
+1. What is the coodinate reference system?
+   Coordinate System: The coordinate system was EPSG:4326 - WGS 84 which I reprojected to EPSG:32632 - WGS 84 / UTM zone 32N
 
-- Audit measurement units was Verified for CRS degrees, like WGS 84 and linear units (meters, UTM) 
+2. Are there empty or null values? Yes, thhere are some null values, which will have to be handled as we progress further in this learning journey
+3. Are there duplicate values? No duplicate values
+4. Does the geometry look valid? Yes. the Geometric system looks valid.
+5. Does the coverage include your study area of is it halfway? Yes, the coverage includes my total area of study, South South Region of Nigeria
 
-What was Clipped is the point data features of the spill coordinates. It was clipped to the the State boundaries shapefiles of the Area of Study (Sout South Region).
+What was clipped was the point data features of the spill coordinates. It was clipped to the the State boundaries shapefiles of the Area of Study (Sout South Region).
 
 
 [Clipped Image of Area of Study](https://github.com/elgaxton/geodev-lab-project/blob/main/Clipped%20area%20of%20study.PNG)
