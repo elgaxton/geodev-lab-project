@@ -87,4 +87,10 @@ What was clipped was the point data features of the spill coordinates. It was cl
 
 [Geopackage of Study Area](https://github.com/elgaxton/geodev-lab-project/blob/main/SouthSouth_oilspill%20points.gpkg)
 - 
+## Week 4
 
+Question: WHAT SETTLEMENTS ARE WITHIN 200 METERS OF OIL SPILL LOCATIONS IN SOUTH SOUTH STATES FROM 2015 TO 2025
+
+Findings: 61, 506 Settlements out of 1,091,710  settlements  fall within  200M of Oil Spill Locations in the South South States of Nigeria
+
+[Map of Settlements within 200 Meters of Oil Spill Locations in South South States](https://github.com/elgaxton/geodev-lab-project/blob/main/South%20South%20Settlements%20within%20200M%20%20of%20Oil%20Spill%20Locations.png)
