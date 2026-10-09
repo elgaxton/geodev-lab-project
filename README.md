@@ -100,3 +100,8 @@ Spatial Analysis Carried out as follows:
 Findings: 61, 506 Settlements out of 1,091,710  settlements  fall within  200M of Oil Spill Locations in the South South States of Nigeria
 
 [Map of Settlements within 200 Meters of Oil Spill Locations in South South States](https://github.com/elgaxton/geodev-lab-project/blob/main/South%20South%20Settlements%20within%20200M%20%20of%20Oil%20Spill%20Locations.png)
+
+![Map of Settlements within 200 Meters of Oil Spill Locations in South South States](https://github.com/elgaxton/geodev-lab-project/blob/main/South%20South%20Settlements%20within%20200M%20%20of%20Oil%20Spill%20Locations.png)
+
+
+
