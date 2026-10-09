@@ -81,8 +81,6 @@ CRS Choosen: EPSG:32632 - WGS 84 / UTM zone 32N - Reason for my choice is simply
 What was clipped was the point data features of the spill coordinates. It was clipped to the the State boundaries shapefiles of the Area of Study (Sout South Region).
 
 
-![Clipped Image of Area of Study](https://github.com/elgaxton/geodev-lab-project/blob/main/Clipped%20area%20of%20study.PNG)
-
 ![Just the Map](https://github.com/elgaxton/geodev-lab-project/blob/main/Area%20of%20Study%20Clipped.PNG)
 
 [Geopackage of Study Area](https://github.com/elgaxton/geodev-lab-project/blob/main/SouthSouth_oilspill%20points.gpkg)
