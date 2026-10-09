@@ -89,7 +89,13 @@ What was clipped was the point data features of the spill coordinates. It was cl
 - 
 ## Week 4
 
-Question: WHAT SETTLEMENTS ARE WITHIN 200 METERS OF OIL SPILL LOCATIONS IN SOUTH SOUTH STATES FROM 2015 TO 2025
+Question: WHAT SETTLEMENTS ARE WITHIN 200 METERS OF OIL SPILL LOCATIONS IN SOUTH SOUTH STATES FROM 2015 TO 2025?
+
+Spatial Analysis Carried out as follows:
+1. Buffer
+2. Intersection
+3. Union
+4. Joint Attributes
 
 Findings: 61, 506 Settlements out of 1,091,710  settlements  fall within  200M of Oil Spill Locations in the South South States of Nigeria
 
