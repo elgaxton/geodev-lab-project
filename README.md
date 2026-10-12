@@ -73,12 +73,12 @@ CRS Choosen: EPSG:32632 - WGS 84 / UTM zone 32N - Reason for my choice is simply
 1. What is the coodinate reference system?
    Coordinate System: The coordinate system was EPSG:4326 - WGS 84 which I reprojected to EPSG:32632 - WGS 84 / UTM zone 32N
 
-2. Are there empty or null values? Yes, thhere are some null values, which will have to be handled as we progress further in this learning journey
+2. Are there empty or null values? Yes, there are some null values, which will have to be handled as we progress further in this learning journey
 3. Are there duplicate values? No duplicate values
 4. Does the geometry look valid? Yes. the Geometric system looks valid.
-5. Does the coverage include your study area of is it halfway? Yes, the coverage includes my total area of study, South South Region of Nigeria
+5. Does the coverage include your study area of is it halfway? Yes, the coverage includes my total area of study, South-South Region of Nigeria
 
-What was clipped was the point data features of the spill coordinates. It was clipped to the the State boundaries shapefiles of the Area of Study (Sout South Region).
+What was clipped was the point data features of the spill coordinates. It was clipped to the the State boundaries shapefiles of the Area of Study (South-South Region).
 
 
 ![Just the Map](https://github.com/elgaxton/geodev-lab-project/blob/main/Area%20of%20Study%20Clipped.PNG)
@@ -100,5 +100,7 @@ Findings: 61, 506 Settlements out of 1,091,710  settlements  fall within  200M o
 
 ![Map of Settlements within 200 Meters of Oil Spill Locations in South South States](https://github.com/elgaxton/geodev-lab-project/blob/main/South%20South%20Settlements%20within%20200M%20%20of%20Oil%20Spill%20Locations.png)
 
+## Month 2: Preparation of Environment, Python Intro
 
+- Week 5: I Set up Python, Vs Code and Terminal. I also ran a Python file, hello.py
 
