@@ -121,7 +121,7 @@ I learnt the Following:
 
 ![SCreenshot of Main.py](https://github.com/elgaxton/geodev-lab-project/blob/main/pyproject_screenshot.png)
 
-[uv.lock](https://github.com/elgaxton/geodev-lab-project/blob/main/uv.lock)]
+[uv.lock](https://github.com/elgaxton/geodev-lab-project/blob/main/uv.lock)
 
 [pyproject.toml](https://github.com/elgaxton/geodev-lab-project/blob/main/pyproject.toml)
 
