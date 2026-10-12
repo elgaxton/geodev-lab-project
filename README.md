@@ -102,8 +102,26 @@ Findings: 61, 506 Settlements out of 1,091,710  settlements  fall within  200M o
 
 ## Month 2: Preparation of Environment, Python Intro
 
-- Week 5: I Set up Python, Vs Code and Terminal. I also ran a Python file, hello.py
+## Week 5:
+
+- I Set up Python, Vs Code and Terminal. I also ran a Python file, hello.py
 
 [Python file](https://github.com/elgaxton/geodev-lab-project/blob/main/hello.py)
 
 ![Screenshot of Python Environment](https://github.com/elgaxton/geodev-lab-project/blob/main/Python.png)
+
+## Week 6
+I learnt the Following:
+-Installation of Pandas, Geopandas modules
+- Understanding pyproject.toml, uv.lock files
+- Using terminal on Powershell and on VS code
+- Read CSV files and viewing the Dataframes
+- Reading GeoJson files and viewing the Geodataframes
+- How to increase the font of the Terminal
+
+![SCreenshot of Main.py](https://github.com/elgaxton/geodev-lab-project/blob/main/pyproject_screenshot.png)
+
+[uv.lock](https://github.com/elgaxton/geodev-lab-project/blob/main/uv.lock)]
+
+[pyproject.toml](https://github.com/elgaxton/geodev-lab-project/blob/main/pyproject.toml)
+
