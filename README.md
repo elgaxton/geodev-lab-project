@@ -104,3 +104,6 @@ Findings: 61, 506 Settlements out of 1,091,710  settlements  fall within  200M o
 
 - Week 5: I Set up Python, Vs Code and Terminal. I also ran a Python file, hello.py
 
+[Python file](https://github.com/elgaxton/geodev-lab-project/blob/main/hello.py)
+
+![Screenshot of Python Environment](https://github.com/elgaxton/geodev-lab-project/blob/main/Python.png)
