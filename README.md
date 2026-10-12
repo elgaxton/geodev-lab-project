@@ -119,9 +119,10 @@ I learnt the Following:
 - Reading GeoJson files and viewing the Geodataframes
 - How to increase the font of the Terminal
 
-![SCreenshot of Main.py](https://github.com/elgaxton/geodev-lab-project/blob/main/pyproject_screenshot.png)
+![SCreenshot of Check.py](https://github.com/elgaxton/geodev-lab-project/blob/main/Week6.png)
 
 [uv.lock](https://github.com/elgaxton/geodev-lab-project/blob/main/uv.lock)
 
 [pyproject.toml](https://github.com/elgaxton/geodev-lab-project/blob/main/pyproject.toml)
 
+[Check.py](https://github.com/elgaxton/geodev-lab-project/blob/main/check.py)
