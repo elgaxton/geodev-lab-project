@@ -126,3 +126,23 @@ I learnt the Following:
 [pyproject.toml](https://github.com/elgaxton/geodev-lab-project/blob/main/pyproject.toml)
 
 [Check.py](https://github.com/elgaxton/geodev-lab-project/blob/main/check.py)
+
+## Week 7
+The most important week in learning how to code
+
+Six Concepts learnt this week are:
+- The  List
+- The Variable
+- The Loop
+- The Type
+- The Condition
+- The Function
+Uploade files:
+![Screenshot analyse.py](https://github.com/elgaxton/geodev-lab-project/blob/main/Week7.png)
+[wards csv file ](https://github.com/elgaxton/geodev-lab-project/blob/main/wards.csv)
+  [python file](https://github.com/elgaxton/geodev-lab-project/blob/main/analyse.py)
+
+
+
+
+
