@@ -139,10 +139,9 @@ Six Concepts learnt this week are:
 - The Function
 Uploade files:
 ![Screenshot analyse.py](https://github.com/elgaxton/geodev-lab-project/blob/main/Week7.png)
+
 [wards csv file ](https://github.com/elgaxton/geodev-lab-project/blob/main/wards.csv)
-  [python file](https://github.com/elgaxton/geodev-lab-project/blob/main/analyse.py)
 
-
-
+[python file](https://github.com/elgaxton/geodev-lab-project/blob/main/analyse.py)
 
 
