@@ -137,7 +137,9 @@ Six Concepts learnt this week are:
 - The Type
 - The Condition
 - The Function
-Uploade files:
+  
+Uploaded files:
+
 ![Screenshot analyse.py](https://github.com/elgaxton/geodev-lab-project/blob/main/Week7.png)
 
 [wards csv file ](https://github.com/elgaxton/geodev-lab-project/blob/main/wards.csv)
