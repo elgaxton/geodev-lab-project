@@ -146,4 +146,8 @@ Uploaded files:
 
 [python file](https://github.com/elgaxton/geodev-lab-project/blob/main/analyse.py)
 
+## Week 8
 
+inspect_data.py summarises the "estimatedquantity" and "quantityrecovered" from the csv file "oil_spill_master.csv"
+
+![Week 8 Sceenshot](https://github.com/elgaxton/geodev-lab-project/blob/main/Week8.png)
