@@ -151,3 +151,32 @@ Uploaded files:
 inspect_data.py summarises the "estimatedquantity" and "quantityrecovered" from the csv file "oil_spill_master.csv"
 
 ![Week 8 Sceenshot](https://github.com/elgaxton/geodev-lab-project/blob/main/Week8.png)
+
+[Week 8 Inspect_data.py](https://github.com/elgaxton/geodev-lab-project/blob/main/inspect_data.py)
+
+## Week 9
+Refactored python file summarizing week 8 inspect_data.py into three functions thereby making file cleaner and easier to debug
+and make corrections.
+
+### My Reflections
+### Key Learning Outcomes for This Month
+Throughout this month's tasks, I have gained a better understanding of several fundamental Python concepts and practical applications. 
+Some of the key things I have learned include:
+
+- Successfully installing **uv** using Windows PowerShell.
+- Learning how to execute Python scripts from the command line using **uv**.
+- Understanding how to load and read CSV files directly into Python without relying on the Pandas module.
+- Understanding the purpose of `encoding='utf-8-sig'` when reading CSV files.
+- Gaining a better understanding of how Python functions work, including the need to call a function before it executes and produces a result.
+- Continuing to explore and deepen my understanding of functions, as I am still working towards fully grasping the concept.
+- Understanding the difference between `print()` and `return`, and how each works within a Python program.
+- Successfully summarising my CSV dataset by refactoring my code while maintaining the same output as the `Week 8 inspect_data.py` file.
+
+Overall, this month's exercises have helped strengthen my understanding of Python fundamentals, particularly file handling, functions, code refactoring, 
+and executing Python scripts from the command line. I look forward to building on these concepts in the next weeks and Months.
+
+Thank you for the good work so far
+
+![Week 9 Screenshot](https://github.com/elgaxton/geodev-lab-project/blob/main/Week09.png)
+[Week 9 summary.py Python file](https://github.com/elgaxton/geodev-lab-project/blob/main/summary.py)
+
