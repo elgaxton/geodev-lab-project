@@ -62,8 +62,8 @@ Click here to `git commit` download the data [oilspill dataset](https://github.c
 
 |DATASET |FEATURE TYPE |FEATURE COUNT |FILE FORMAT| SOURCE
 |---|---|---|---|---|
-|Oilspill Data |Points |9,929 | CSV |[OilspillMonitor](oilspillmitor.ng)
-|State Boundaries |Polygons| 37 | SHAPE FILE|[GRID 3](grid3.org)
+|Oilspill Data |Points |9,929 | CSV |[OilspillMonitor](https://oilspillmitor.ng)
+|State Boundaries |Polygons| 37 | SHAPE FILE|[GRID 3](https://grid3.org)
 
 ## Week 3
 
