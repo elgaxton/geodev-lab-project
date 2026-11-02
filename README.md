@@ -171,6 +171,7 @@ Some of the key things I have learned include:
 - Continuing to explore and deepen my understanding of functions, as I am still working towards fully grasping the concept.
 - Understanding the difference between `print()` and `return`, and how each works within a Python program.
 - Successfully summarising my CSV dataset by refactoring my code while maintaining the same output as the `Week 8 inspect_data.py` file.
+- A refactored code is supposed to have same result as the previous file which is being refactored
 
 Overall, this month's exercises have helped strengthen my understanding of Python fundamentals, particularly file handling, functions, code refactoring, 
 and executing Python scripts from the command line. I look forward to building on these concepts in the next weeks and Months.
