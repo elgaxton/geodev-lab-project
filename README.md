@@ -158,8 +158,8 @@ inspect_data.py summarises the "estimatedquantity" and "quantityrecovered" from 
 Refactored python file summarizing week 8 inspect_data.py into three functions thereby making file cleaner and easier to debug
 and make corrections.
 
-### My Reflections
-### Key Learning Outcomes for This Month
+#### Key Learning Outcomes for This Month
+
 Throughout this month's tasks, I have gained a better understanding of several fundamental Python concepts and practical applications. 
 Some of the key things I have learned include:
 
