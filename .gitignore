@@ -1,0 +1,29 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Large raster datasets
+*.tif
+*.TIF
+*.tiff
+*.TIFF
+
+# Compressed archives
+*.zip
+
+# Editor and system files
+.DS_Store
+Thumbs.db
+.vscode/
